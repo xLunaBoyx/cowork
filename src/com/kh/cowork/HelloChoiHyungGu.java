@@ -1,6 +1,6 @@
 package com.kh.cowork;
 
-class ChoiHyungGu {
+class HelloChoiHyungGu {
 
 	/**
 	 * @author CHG
